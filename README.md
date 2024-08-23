@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan20018&label=Profile%20views&color=0e75b6&style=flat" alt="aryan20018" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aryanshekhar18" target="blank"><img src="https://img.shields.io/twitter/follow/aryanshekhar18?logo=twitter&style=for-the-badge" alt="aryanshekhar18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryanshekhar16" target="blank"><img src="https://img.shields.io/twitter/follow/aryanshekhar16?logo=twitter&style=for-the-badge" alt="aryanshekhar16" /></a> </p>
 
 - 🔭 I’m currently working on **Food delivery app**
 
