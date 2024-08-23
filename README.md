@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Food delivery app**
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **reactjs **
 
-- 💬 Ask me about **mearn**
+- 💬 Ask me about **mern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
