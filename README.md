@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shekhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/072d7f86526d4f63ed5244a0f1aaeb358354b3753592de5e15065866f4b2d893/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan20018&label=Profile%20views&color=0e75b6&style=flat" alt="aryan20018" /> </p>
 
