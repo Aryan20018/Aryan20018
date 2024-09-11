@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="2000" src="dp.jpg">
+<img align="center" alt="coding" width="1000" src="dp.jpg">
 <h1 align="center">Hi 👋, I'm Aryan Shekhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
