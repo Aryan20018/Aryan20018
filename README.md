@@ -29,6 +29,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan20018&theme=tokyonight&hide_border=false)<br/>
+<a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Aryan20018&theme=dark&ring=0AA1EB&stroke=0F6FEB&currStreakLabel=7BB8EB&fire=FF0404" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan20018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan20018&show_icons=true&locale=en" alt="aryan20018" /></p>
