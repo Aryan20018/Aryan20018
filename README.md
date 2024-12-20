@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryanshekhar16" target="blank"><img src="https://img.shields.io/twitter/follow/aryanshekhar16?logo=twitter&style=for-the-badge" alt="aryanshekhar16" /></a> </p>
 
-- 🔭 I’m currently working on **Food delivery app**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **reactjs **
 
@@ -33,4 +33,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan20018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan20018&show_icons=true&locale=en" alt="aryan20018" /></p>
+
